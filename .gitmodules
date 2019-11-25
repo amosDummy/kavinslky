@@ -1,0 +1,6 @@
+[submodule "vlizameVGIthub"]
+	path = vlizameVGIthub
+	url = https://github.com/amosDummy/vlizameVGIthub
+[submodule "AMOS_InputConsole"]
+	path = AMOS_InputConsole
+	url = https://github.com/stubb/AMOS_InputConsole
